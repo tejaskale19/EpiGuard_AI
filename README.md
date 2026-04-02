@@ -19,3 +19,6 @@ WHO-style epidemic intelligence command center for outbreak prediction, hotspot 
 - Prophet
 - XGBoost baseline
 - risk scoring logic
+
+## Prototype link
+https://uncavilling-tanja-untractably.ngrok-free.dev/
